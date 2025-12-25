@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hola, soy Xavier Jiménez Albán 👋
 
-<!--
-**xavijimenez/xavijimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional con **visión multidisciplinaria**, combinando la **Estadística, Economía, Contabilidad y Sistemas de Información** con mi pasión por la **Programación y la Música**.
 
-Here are some ideas to get you started:
+Me interesa la convergencia entre los **datos, los sistemas formales y el arte**, buscando aplicar el rigor matemático en contextos creativos y viceversa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Áreas de especialización
+
+* 📊 **Datos y Finanzas:** Ciencia de Datos, Estadística Aplicada, Economía y Contabilidad.
+* 💻 **Tecnología:** R, Python, Sistemas de Información y Git.
+* 🎨 **Arte y Código:** Música Académica, Live-coding y Notación musical algorítmica.
+
+---
+
+- 🔭 **Actualmente trabajando en:** [Mi portafolio de partituras y transcripciones (LilyPond)](https://github.com/xavijimenez/partituras)
+- 🌱 **Aprendiendo:** Profundizando en Ciencia de Datos y nuevos paradigmas de Live-coding.
+- 💬 **Pregúntame sobre:** Cómo aplicar modelos matemáticos a la música, finanzas o análisis de datos.
+- 📫 **Contacto:** [LinkedIn: xavijimenez; YouTube: https://www.youtube.com/@xavierjimenez]
+
+---
+⭐️ **Destacado:** [Visita mi colección de partituras de Bach y arreglos propios](https://github.com/xavijimenez/partituras)
