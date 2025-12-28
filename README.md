@@ -1,23 +1,34 @@
-### Hola, soy Xavier Jiménez Albán 👋
+# Hi, I'm Xavier Jiménez Albán 👋
 
-Soy un profesional con **visión multidisciplinaria**, combinando la **Estadística, Economía, Contabilidad y Sistemas de Información** con mi pasión por la **Programación y la Música**.
-
-Me interesa la convergencia entre los **datos, los sistemas formales y el arte**, buscando aplicar el rigor matemático en contextos creativos y viceversa.
-
----
-
-### 🚀 Áreas de especialización
-
-* 📊 **Datos y Finanzas:** Ciencia de Datos, Estadística Aplicada, Economía y Contabilidad.
-* 💻 **Tecnología:** R, Python, Sistemas de Información y Git.
-* 🎨 **Arte y Código:** Música Académica, Live-coding y Notación musical algorítmica.
+Multidisciplinary professional combining **Statistics, Economics, Accounting, and Information Systems**.
+Passionate about the convergence of **Data Science**, formal systems, and **Music**.
 
 ---
 
-- 🔭 **Actualmente trabajando en:** [Mi portafolio de partituras y transcripciones (LilyPond)](https://github.com/xavijimenez/partituras)
-- 🌱 **Aprendiendo:** Profundizando en Ciencia de Datos y nuevos paradigmas de Live-coding.
-- 💬 **Pregúntame sobre:** Cómo aplicar modelos matemáticos a la música, finanzas o análisis de datos.
-- 📫 **Contacto:** [LinkedIn: xavijimenez; YouTube: https://www.youtube.com/@xavierjimenez]
+<details>
+<summary>🚀 Core Competencies (Click to expand)</summary>
+<br>
 
----
-⭐️ **Destacado:** [Visita mi colección de partituras de Bach y arreglos propios](https://github.com/xavijimenez/partituras)
+* 📊 **Data & Science:** Data Science, Applied Statistics, Economics.
+* 💻 **Technology:** Information Systems, R, Python, Git.
+* ⚖️ **Business:** Accounting, Audit, Taxation.
+
+</details>
+
+<details>
+<summary>🎸 Interests & Research</summary>
+<br>
+
+* **Music:** Jazz, Fusion, and Fingerstyle.
+* **Research:** Musicology and Algorithmic Notation (LilyPond).
+
+</details>
+
+<details>
+<summary>📫 Contact</summary>
+<br>
+
+* [LinkedIn](https://linkedin.com/in/xavijimenez)
+* [Email](mailto:xavierjimenez@protonmail.com)
+
+</details>
